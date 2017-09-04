@@ -1,9 +1,15 @@
 html {
   font-family: Verdana;
+  font-weight: normal;
+  color: white;
   background-color: black;
   text-align: center;
 }
 #download {
   color: Aquamarine;
-  font-size: 16px;
+  font-size: 16px
+}
+.footer {
+  text-align: right;
+  color; gray;
 }
